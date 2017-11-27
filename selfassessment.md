@@ -1,10 +1,10 @@
 ## Self-Assessment for the Reconciliation Lesson in OpenRefine
 
 ### How familiar are you with triplestores?
->a. I have never heard of them or have heard the term but don't know what it means.
->b. I have heard of them but do not know what they consist of.
->c. I have seen links that use them but don't understand how they work.
->d. I have used them in cataloging records or building a website
+>1. I have never heard of them or have heard the term but don't know what it means.
+>2. I have heard of them but do not know what they consist of.
+>3. I have seen links that use them but don't understand how they work.
+>4. I have used them in cataloging records or building a website
 
 ## Have you ever reversed name order (first last to last, first) in a spreadsheet or other tool?
 >a. I have never reversed name order, or I have manually reversed name order by cutting and pasting.
